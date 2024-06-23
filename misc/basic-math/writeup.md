@@ -1,21 +1,27 @@
-### Basic Math Writeup
+# Writeup for `basic math`
 
 | author | category | value |
 |--------|----------|-------|
 |  poi   |   misc   |  100  |
 
-## Challenge Description:
-#TODO
+Is your basic math mathing?
 
-## Files
-- [src/trivia.py](src/trivia.py): File
+## Solution
 
-## Challenge Solution:
 <details>
-<summary>Click here to reveal the solution</summary>
+<summary>Click here to reveal the solution!</summary>
 
-#TODO
+### The Big Idea
 
-## Flag
-`BEGINNER{ca$h_or_cach3}`
+TODO: Fill out the big idea.
+
+### Walkthrough
+
+1. TODO: Fill out the walkthrough.
+2. TODO: Some more steps.
+
+### Flag(s)
+
+- `BEGINNER{ca$h_or_cach3}`
+
 </details>

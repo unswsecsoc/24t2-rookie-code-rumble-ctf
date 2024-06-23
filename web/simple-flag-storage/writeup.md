@@ -1,14 +1,15 @@
-# Writeup for `alternative medicine`
+# Writeup for `simple flag storage`
 
-|      author     | category | value |
-|-----------------|----------|-------|
-| scorpiontornado |   web    |  100  |
+|    author    | category | value |
+|--------------|----------|-------|
+| PenTest-duck |   web    |  100  |
 
-Seek a different form of injection.
+I've uploaded my flag to the super-secure Simple Flag Storage (SFS) server - I've even made sure to check that a user has the right JWT token in order to protect my flag. Surely there's no way you can get it ... right?
 
-| cost |                                    content                                    |
-|------|-------------------------------------------------------------------------------|
-|  10  | Did you know you can perform SQL injection on statements other than `SELECT`? |
+| cost |                                     content                                      |
+|------|----------------------------------------------------------------------------------|
+|  10  | Use a website like https://jwt.io/ to see what's being encoded in the JWT token. |
+|  10  | We know SQL injections exist - maybe we can do the same for JSON?                |
 
 ## Solution
 
@@ -26,6 +27,6 @@ TODO: Fill out the big idea.
 
 ### Flag(s)
 
-- `BEGINNER{Ins3RT_InT0_tH3_InSER7_1NTo!!}`
+- `BEGINNER{i_t0ld_y0u_n0t_t0_7ru5t_u53r_1npu7}`
 
 </details>
